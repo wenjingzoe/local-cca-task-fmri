@@ -47,6 +47,19 @@ reported in the simulation sections of the paper.
 - `estimate_h_FGLS.m`  
   Benchmark function for semiparametric estimation.
 
+## Data availability
+
+The real fMRI dataset used in this study is publicly available from OpenNeuro:
+
+https://openneuro.org/datasets/ds000171
+
+Due to data size and licensing considerations, the full raw dataset is not
+required to be downloaded from this repository. Instead, users are encouraged
+to obtain the data directly from OpenNeuro.
+
+For convenience, this repository may include preprocessed data used in the
+analysis.
+
 ## Requirements
 
 - MATLAB R2023a (or later)
